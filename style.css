@@ -63,6 +63,10 @@ table {
 	border-radius: 10px;
 }
 
-#file, th {
+#tip, th, a {
 	color: chartreuse;
+}
+
+#tip {
+	font-family: 'Courier New', Courier, monospace;
 }
